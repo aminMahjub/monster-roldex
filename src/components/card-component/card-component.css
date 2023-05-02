@@ -1,0 +1,16 @@
+.monster-card {
+    height: 10rem;
+    background-color: cornflowerblue;
+    border-radius: .5rem;
+    text-align: center;
+    padding: .5rem;
+}
+
+.monster-title {
+    margin-bottom: .5rem;
+}
+
+.monster-title,
+.monster-email {
+    font-weight: 600;
+}

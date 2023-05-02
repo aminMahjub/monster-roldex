@@ -1,0 +1,8 @@
+.monster-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 20rem);
+    justify-content: center;
+    align-content: center;
+    gap: .5rem;
+    margin: .7rem .2rem;
+}
